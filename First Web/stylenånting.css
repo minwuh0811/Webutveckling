@@ -1,0 +1,31 @@
+body{
+    background-color: lightsalmon;
+    text-align: center;
+}
+#ledtråd{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bilder{
+    border: 5px solid red;
+}
+p1{
+    font-family: Arial, Helvetica, sans-serif !important;
+    text-decoration: underline red; 
+    font-size: 30px
+}
+button {
+    color:blueviolet;
+    border-color: brown;
+    border-block-start-width: 5px;
+    border-block-end-width: 5px;
+    border-inline-end-width: 5px;
+    border-inline-start-width: 5px;
+    font-size: 2cm;
+    
+
+}
+p{
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 25px
+}
